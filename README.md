@@ -2,10 +2,10 @@
 
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
 
-🍎 **Education**
-Virginia Tech
-*Bachelor of Science*<
-*Expected Graduation May 2025*
+🍎 **Education** <br />
+Virginia Tech <br />
+*Bachelor of Science* <br />
+*Expected Graduation May 2025* <br />
 
 
 💡 **Coursework**
@@ -21,9 +21,9 @@ Virginia Tech
   - Language Used: `printf("C");`
   
 
-🔬 **Research**
-Synthetic Data for SECML
-*Cybersecurity and Privacy* **Machine Learning**
+🔬 **Research** <br />
+Synthetic Data for SECML <br />
+*Cybersecurity and Privacy* **Machine Learning** <br />
 - Creating synthetic data set to even out spam to real messages ratio in current data sets
 
 ---
@@ -36,6 +36,7 @@ Synthetic Data for SECML
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyap21&layout=compact&theme=vision-friendly-dark)](https://github.com/sharanyap21/github-readme-stats)
