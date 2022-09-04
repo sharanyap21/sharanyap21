@@ -21,7 +21,6 @@ Virginia Tech <br />
 - CS 2505 *Introduction to Computer Organization*
   - Language Used: `printf("C");` 
   
-<br />
 
 🔬 **Research** <br />
 Synthetic Data for SECML <br />
