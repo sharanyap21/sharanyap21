@@ -19,7 +19,8 @@ Virginia Tech <br />
   - HTTP Requests, SQL, Big O, Scapy, SKLearn, NumPy, Matplotlib
   - Language Used: `print("Python")`
 - CS 2505 *Introduction to Computer Organization*
-  - Language Used: `printf("C");` <br />
+  - Language Used: `printf("C");` 
+<br />
 *Private Repositories.*
   
 <br />
