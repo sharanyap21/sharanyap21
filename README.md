@@ -9,8 +9,8 @@ Virginia Tech <br />
 
 <br />
 
-💡 **Coursework**
-*Private Repositories.*
+💡 **Coursework** <br />
+*Private Repositories.*<br />
 - CS 1114 *Introduction to Software Design*
   - Language Used: `System.out.println("Java");`
 - CS 2114 *Software Design and Data Structures*
