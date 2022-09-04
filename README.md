@@ -24,7 +24,9 @@ Virginia Tech <br />
   - Language Used: `printf("C");` 
   
 
-🔬 **Research** <br />
+🔬 **Research** 
+
+
 Synthetic Data for SECML <br />
 *Cybersecurity and Privacy* **Machine Learning** <br />
 - Creating synthetic data set to even out spam to real messages ratio in current data sets
