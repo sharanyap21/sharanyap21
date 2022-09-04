@@ -18,7 +18,7 @@ Virginia Tech <br />
 - CS 2104 *Introduction to Problem Solving in Computer Science*
   - HTTP Requests, SQL, Big O, Scapy, SKLearn, NumPy, Matplotlib
   - Language Used: `print("Python")`
-- CS 2505 *Introduction to Computer Organization
+- CS 2505 *Introduction to Computer Organization*
   - Language Used: `printf("C");`
   
 <br />
