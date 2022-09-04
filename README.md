@@ -3,7 +3,7 @@
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
 
 🍎 **Education** <br />
-Virginia Tech <br />
+**Virginia Tech** <br />
 *Bachelor of Science* <br />
 *Expected Graduation May 2025* <br />
 
@@ -36,6 +36,7 @@ Synthetic Data for SECML <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+<br />
 <br />
 <br />
 
