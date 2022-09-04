@@ -3,10 +3,11 @@
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
 
 🍎 **Education** <br />
-**Virginia Tech** <br />
+Virginia Tech <br />
 *Bachelor of Science* <br />
 *Expected Graduation May 2025* <br />
 
+<br />
 
 💡 **Coursework**
 - CS 1114 *Introduction to Software Design*
@@ -20,6 +21,7 @@ Aspiring to be a Software Engineer with an interest in Machine Learning and Web 
 - CS 2505 *Introduction to Computer Organization
   - Language Used: `printf("C");`
   
+<br />
 
 🔬 **Research** <br />
 Synthetic Data for SECML <br />
