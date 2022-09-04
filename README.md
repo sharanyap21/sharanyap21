@@ -20,7 +20,7 @@ Virginia Tech <br />
   - Language Used: `print("Python")`
 - CS 2505 *Introduction to Computer Organization*
   - Language Used: `printf("C");` 
-  - <br />
+  <br />
 *Private Repositories.*
   
 <br />
