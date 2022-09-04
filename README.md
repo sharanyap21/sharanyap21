@@ -3,7 +3,6 @@
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
 
 🍎 **Education** <br />
-<br />
 Virginia Tech <br />
 *Bachelor of Science* <br />
 *Expected Graduation May 2025* <br />
@@ -25,7 +24,6 @@ Virginia Tech <br />
 <br />
 
 🔬 **Research** <br />
-<br />
 Synthetic Data for SECML <br />
 *Cybersecurity and Privacy* **Machine Learning** <br />
 - Creating synthetic data set to even out spam to real messages ratio in current data sets
