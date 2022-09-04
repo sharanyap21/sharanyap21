@@ -3,9 +3,9 @@
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
 
 🍎 **Education**
-Virginia Tech
-*Bachelor of Science*
-*Expected Graduation May 2025*
+<tab>Virginia Tech</tab>
+<tab>*Bachelor of Science*</tab>
+<tab>*Expected Graduation May 2025*</tab>
 
 ---
 
@@ -30,7 +30,7 @@ Synthetic Data for SECML
 
 ---
 
-### :hammer_and_wrench: Languages + Developer Tools:
+⚙️ **Languages + Developer Tools**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
