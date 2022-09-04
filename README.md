@@ -7,8 +7,6 @@ Virginia Tech <br />
 *Bachelor of Science* <br />
 *Expected Graduation May 2025* <br />
 
-<br />
-
 `Following coursework and research projects are stored in private repositories.` <br />
 
 💡 **Coursework** 
