@@ -43,3 +43,6 @@ Synthetic Data for SECML <br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyap21&layout=compact&theme=vision-friendly-dark)](https://github.com/sharanyap21/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyap21)](https://github.com/sharanyap21/github-readme-stats)
