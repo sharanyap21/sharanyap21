@@ -31,10 +31,9 @@ Synthetic Data for SECML <br />
 ---
 
 ⚙️ **Languages + Developer Tools** <br />
+<br />
 [![My Skills](https://skills.thijs.gg/icons?i=java,py,c,docker,figma,html,js,kubernetes,react,swift)](https://skills.thijs.gg)
 
-
-<br />
 <br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
