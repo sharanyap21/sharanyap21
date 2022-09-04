@@ -2,7 +2,7 @@
 
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science degree at Virginia Tech.
 
-🍎 **Education** 
+🤺 **Education** 
 
 
 Virginia Tech <br />
