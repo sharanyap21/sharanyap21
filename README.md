@@ -3,11 +3,10 @@
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
 
 🍎 **Education**
-<tab>Virginia Tech</tab>
-<tab>*Bachelor of Science*</tab>
-<tab>*Expected Graduation May 2025*</tab>
+Virginia Tech
+*Bachelor of Science*<
+*Expected Graduation May 2025*
 
----
 
 💡 **Coursework**
 - CS 1114 *Introduction to Software Design*
@@ -21,7 +20,6 @@ Aspiring to be a Software Engineer with an interest in Machine Learning and Web 
 - CS 2505 *Introduction to Computer Organization
   - Language Used: `printf("C");`
   
----
 
 🔬 **Research**
 Synthetic Data for SECML
@@ -37,5 +35,7 @@ Synthetic Data for SECML
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharanyap21&layout=compact&theme=vision-friendly-dark)](https://github.com/sharanyap21/github-readme-stats)
