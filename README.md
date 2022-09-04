@@ -1,14 +1,14 @@
 ### Hey, I'm Sharanya 👋
 
 Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science degree at Virginia Tech.
-
+---
 🤺 **Education** 
 
 
 Virginia Tech <br />
 *Bachelor of Science* <br />
 *Expected Graduation May 2025* <br />
-
+---
 `Following coursework and research projects are stored in private repositories.` <br />
 
 💡 **Coursework** 
@@ -23,7 +23,7 @@ Virginia Tech <br />
 - CS 2505 *Introduction to Computer Organization*
   - Language Used: `printf("C");` 
   
-
+---
 🔬 **Research** 
 
 
