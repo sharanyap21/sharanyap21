@@ -9,8 +9,7 @@ Virginia Tech <br />
 
 <br />
 
-💡 **Coursework** <br />
-*Private Repositories.*<br />
+💡 **Coursework** 
 - CS 1114 *Introduction to Software Design*
   - Language Used: `System.out.println("Java");`
 - CS 2114 *Software Design and Data Structures*
@@ -20,7 +19,8 @@ Virginia Tech <br />
   - HTTP Requests, SQL, Big O, Scapy, SKLearn, NumPy, Matplotlib
   - Language Used: `print("Python")`
 - CS 2505 *Introduction to Computer Organization*
-  - Language Used: `printf("C");`
+  - Language Used: `printf("C");` <br />
+*Private Repositories.*
   
 <br />
 
