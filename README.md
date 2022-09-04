@@ -30,7 +30,7 @@ Synthetic Data for SECML <br />
 
 ---
 
-⚙️ **Languages + Developer Tools**
+⚙️ **Languages + Developer Tools** <br />
 [![My Skills](https://skills.thijs.gg/icons?i=java,py,c,docker,figma,html,js,kubernetes,react,swift)](https://skills.thijs.gg)
 
 
