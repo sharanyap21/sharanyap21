@@ -1,6 +1,6 @@
 ### Hey, I'm Sharanya 👋
 
-Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science major at Virginia Tech.
+Aspiring to be a Software Engineer with an interest in Machine Learning and Web Development. Pursuing a Computer Science degree at Virginia Tech.
 
 🍎 **Education** <br />
 Virginia Tech <br />
