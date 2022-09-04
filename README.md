@@ -9,6 +9,8 @@ Virginia Tech <br />
 
 <br />
 
+`Following coursework and research projects are stored in private repositories.` <br />
+
 💡 **Coursework** 
 - CS 1114 *Introduction to Software Design*
   - Language Used: `System.out.println("Java");`
@@ -20,8 +22,6 @@ Virginia Tech <br />
   - Language Used: `print("Python")`
 - CS 2505 *Introduction to Computer Organization*
   - Language Used: `printf("C");` 
-  <br />
-*Private Repositories.*
   
 <br />
 
