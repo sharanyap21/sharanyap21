@@ -25,7 +25,8 @@ Virginia Tech <br />
   - HTTP Requests, SQL, Big O, Scapy, SKLearn, NumPy, Matplotlib
   - Language Used: `print("Python")`
 - CS 2505 *Introduction to Computer Organization*
-  - Language Used: `printf("C");` 
+  - Language Used: `printf("C");`
+- CS 2304 *Kubernetes Self Study* 
   
 ---
 
