@@ -41,7 +41,7 @@ Synthetic Data for SECML <br />
 
 ⚙️ **Languages + Developer Tools** <br />
 <br />
-[![My Skills](https://skills.thijs.gg/icons?i=java,py,c,docker,figma,html,js,kubernetes,react,swift)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,py,c,docker,figma,html,js,kubernetes,react,swift,yaml)](https://skills.thijs.gg)
 
 <br />
 
